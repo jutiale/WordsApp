@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.example.wordsapp","l":"DataBaseHelper"},{"p":"com.example.wordsapp","l":"LearnActivity"},{"p":"com.example.wordsapp","l":"LearnedWord"},{"p":"com.example.wordsapp","l":"MainActivity"},{"p":"com.example.wordsapp","l":"TestActivity"},{"p":"com.example.wordsapp","l":"UnlearnedWord"}]
