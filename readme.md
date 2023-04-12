@@ -13,11 +13,11 @@ _The app for learning english words using the scientifically proven spaced repet
 The app is based on [spaced repetitions](https://en.wikipedia.org/wiki/Spaced_repetition). 
 
 
->1st repetition --- right after the end of the reading; 
- 2nd repetition --- 20-30 minutes after the 1st repetition; 
- 3rd repetition --- one day after the 2nd; 
- 4th repetition --- 2-3 weeks after the 3rd; 
-5th repetition --- 2-3 months after the 4th repetition.
+>1st repetition --- right after the end of the reading; <br />
+2nd repetition --- 20-30 minutes after the 1st repetition; <br />
+3rd repetition --- one day after the 2nd; <br />
+4th repetition --- 2-3 weeks after the 3rd; <br />
+5th repetition --- 2-3 months after the 4th repetition. 
 
 
 ## Tech
